@@ -1,0 +1,24 @@
+/* input {
+    width: 350px;
+  }
+  .datalist-arrow {
+    position:relative;
+  }
+  .datalist-arrow:after {
+    content:'\25bc';
+    position:absolute;
+    right:5px;
+    top:50%;
+    transform: translateY(-50%);
+    display:block;
+    width:35px;
+    height:35px;
+    line-height:40px;
+    font-size: 1.5em;
+    color:#333;
+    text-align:center;
+    background:#fff;
+    border:3px solid #ccc;
+    border-radius:50%;
+    pointer-events:none;
+  } */
